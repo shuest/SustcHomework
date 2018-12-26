@@ -1,0 +1,13 @@
+"E:\iar7.4\arm\bin\armproc.dll" 
+
+"E:\iar7.4\arm\bin\armjlink2.dll" 
+
+"D:\My Work\STM32_nBIOT_ÖÇÄÜËø\NB-IOT_BOX\Release\Exe\InfObstacle.out" 
+
+--plugin "E:\iar7.4\arm\bin\armbat.dll" 
+
+--device_macro "E:\iar7.4\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+
+
+

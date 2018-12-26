@@ -1,0 +1,13 @@
+"D:\Program Files (x86)\arm\bin\armproc.dll" 
+
+"D:\Program Files (x86)\arm\bin\armjlink2.dll" 
+
+"E:\研究生\高级计算机网络与大数据\实验九 物联网综合实验new2\实验九 物联网综合实验\实验代码\终端代码\第6章\第6章(1)\6.3智慧环境系统(可更改IP)实验源码\NB-IOT_BOX\Debug\Exe\led.out" 
+
+--plugin "D:\Program Files (x86)\arm\bin\armbat.dll" 
+
+--device_macro "D:\Program Files (x86)\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+
+
+
